@@ -232,3 +232,5 @@ class SnakeGame {
       this.highScoreElement.textContent = this.highScore
       localStorage.setItem("snakeHighScore", this.highScore)
     }
+}
+  }
